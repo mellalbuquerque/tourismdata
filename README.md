@@ -18,14 +18,11 @@ Analyse des comportements d'achat des assurances voyage à l'aide du clustering 
 
 ### 📊 **Analyse des tendances du marché du tourisme**  
 Exploration des données pour comprendre les évolutions du secteur du voyage :  
-🔹 Identification des destinations populaires  
-🔹 Analyse des pics saisonniers de réservation  
+🔹 Identification des destinations populaires 
 🔹 Étude des préférences des consommateurs  
 
 ### 🎯 **Personas et repositionnement de marque**  
-Étude du comportement des voyageurs pour repositionner la marque **Passagens Promo** en plateforme complète de tourisme.  
-🔹 Création de profils de consommateurs (femmes 23-34 ans)  
-🔹 Stratégies de communication adaptées aux destinations les plus vendues  
+Étude du comportement des voyageurs pour repositionner la marque Passagens Promo en plateforme complète de tourisme.  
 
 ---
 
