@@ -22,7 +22,7 @@ Exploration des données pour comprendre les évolutions du secteur du voyage :
 🔹 Étude des préférences des consommateurs  
 
 ### 🎯 **Personas et repositionnement de marque**  
-Étude du comportement des voyageurs pour repositionner la marque Passagens Promo en plateforme complète de tourisme.  
+Étude du comportement des voyageurs pour repositionner la marque en plateforme complète de tourisme.  
 
 ---
 
