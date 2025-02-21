@@ -1,4 +1,4 @@
-# 🌍 print('Hello world!')
+# 🌍 print(tourism_data)
 
 **Analyses et visualisations de données pour le secteur du tourisme**  
 Ce dépôt regroupe plusieurs projets de data science appliqués au tourisme, avec un focus sur l'analyse de données, la segmentation des clients et l'optimisation des stratégies marketing.
