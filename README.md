@@ -10,15 +10,11 @@ Ce dépôt regroupe plusieurs projets de data science appliqués au tourisme, av
 ### 🏷️ **Segmentation des clients des assurances voyage**  
 Analyse des comportements d'achat des assurances voyage à l'aide du clustering (K-Means).  
 🔹 Identification des groupes de clients :  
-  - "Quebrando o Porquinho" : forte demande, budget limité  
-  - "Quem Converte Não Se Diverte" : achat via agents, forte dépense  
-  - "Paitrocinador Oficial" : longues séjours, indépendance  
-  - "Monica Geller & Co." : faible volume, faible budget  
 🔹 Optimisation des stratégies marketing selon les segments.  
 
 ### 📊 **Analyse des tendances du marché du tourisme**  
 Exploration des données pour comprendre les évolutions du secteur du voyage :  
-🔹 Identification des destinations populaires 
+🔹 Identification des destinations populaires
 🔹 Étude des préférences des consommateurs  
 
 ### 🎯 **Personas et repositionnement de marque**  
